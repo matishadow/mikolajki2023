@@ -17,9 +17,6 @@
         .innerHTML =
         '<div style="margin-bottom: 6rem">' + '<span>Iza i Szymon 💘</span></div>' +
         '<div style="margin-bottom: 3rem">' + d + '<span>dni</span></div>' +
-        '<div style="margin-bottom: 3rem">' + h + '<span>godzin</span></div>' +
-        '<div style="margin-bottom: 3rem">' + m + '<span>minut</span></div>' +
-        '<div style="margin-bottom: 3rem">' + s + '<span>sekund</span></div>' +
         '<div style="margin-top: 6rem">' + '<span>razem</span></div>';
 }
 setInterval('updateTimer()', 1000 );
