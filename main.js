@@ -1,5 +1,5 @@
 ﻿function updateTimer() {
-    past  = Date.parse("November 11, 2008 11:30:00");
+    past  = Date.parse("November 14, 2008 11:30:00");
     now     = new Date();
     diff    = now - past;
 
